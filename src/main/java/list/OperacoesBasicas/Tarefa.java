@@ -1,6 +1,4 @@
-package main.java.list.Ordenacao;
-
-import java.util.List;
+package main.java.list.OperacoesBasicas;
 
 public class Tarefa {
     //Atributo
